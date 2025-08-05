@@ -1,6 +1,6 @@
 # 🧬 Diabetes Detection using Cutting-Edge Machine Learning
 
-![Banner](https://raw.githubusercontent.com/aniket0657/assets/main/diabetes_banner.png)
+![Banner](https://github.com/aniket0657/-Diabetes_Detection_By_Cutting-Edge/blob/main/Assets/28997.jpg)
 
 This project leverages machine learning to predict the onset of diabetes in individuals based on medical parameters. It includes model development, evaluation, and full deployment using Docker, GitHub Actions, and AWS (EC2, ECR).
 
